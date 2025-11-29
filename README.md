@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Englify - Ứng dụng học tiếng Anh qua game
 
 Englify là ứng dụng học tiếng Anh thông qua các trò chơi tương tác, giúp người dùng cải thiện vốn từ vựng và ngữ pháp một cách thú vị.
@@ -58,10 +58,5 @@ Englify/
 - Expo Linear Gradient
 - Expo Vector Icons
 
-## Phát triển
-
 Ứng dụng được xây dựng với React Native và Expo để hỗ trợ cả iOS và Android.
 
-=======
-# Englify
->>>>>>> 89464abedf9c0c3548ac60280ae7fcf0adeab4d2
