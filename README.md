@@ -5,14 +5,14 @@ Englify là ứng dụng học tiếng Anh thông qua các trò chơi tương t�
 
 ## Tính năng
 
-- 🔐 **Đăng nhập**: Màn hình đăng nhập đơn giản
-- 🎮 **3 trò chơi chính**:
+- **Đăng nhập**: Màn hình đăng nhập đơn giản
+- **3 trò chơi chính**:
   - Đoán từ: Đoán từ tiếng Anh dựa trên gợi ý
   - Điền chỗ trống: Chọn từ đúng để điền vào chỗ trống
   - Trắc nghiệm: Chọn đáp án đúng cho câu hỏi
-- 📊 **3 cấp độ khó**: Mới tiếp cận, Khá, Tốt
-- 🏆 **Bảng xếp hạng**: Xem top người chơi
-- 📈 **Kết quả**: Xem điểm số và phần trăm đúng sau mỗi game
+- **3 cấp độ khó**: Mới tiếp cận, Khá, Tốt
+- **Bảng xếp hạng**: Xem top người chơi
+- **Kết quả**: Xem điểm số và phần trăm đúng sau mỗi game
 
 ## Cài đặt
 
